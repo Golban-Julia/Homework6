@@ -24,3 +24,5 @@ alert (division);
 let exponent = a ** b;
 alert (exponent);
 
+
+console.log('New feature');
