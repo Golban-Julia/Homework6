@@ -1,7 +1,9 @@
 "use strict";
 
-const name = prompt( "Как вас зовут?", '');
+const name = prompt("Как вас зовут?", '');
+const lastName = prompt( "Как ваша фамилия?", '');
 alert(`Ваше имя ${name}`);
+alert(`Ваше имя ${lastName}`);
 
 
 let a = 15;
